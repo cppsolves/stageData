@@ -1,0 +1,6 @@
+com\geekster\Doctor\dao\UserRepository.class
+com\geekster\Doctor\model\User.class
+com\geekster\Doctor\DoctorApplication.class
+com\geekster\Doctor\controller\UserController.class
+com\geekster\Doctor\Util\CommonUtils.class
+com\geekster\Doctor\Util\DoctorValidator.class
